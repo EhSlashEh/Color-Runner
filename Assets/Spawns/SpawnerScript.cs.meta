@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3bb2c8adccb80b447ba881fd2f6b3f5b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Box: {fileID: 81321278842448729, guid: 0be295c52f611c544b84a3c9ed21c3fc, type: 3}
+  - RedBox: {fileID: 1438415557715775325, guid: 8a6b3434e984c8f4190d60fbc540f8ec, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
